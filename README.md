@@ -2,7 +2,13 @@
 VR sandbox, playable on PC. It's just for fun.
 
 ## About this
-I created this game half year ago, I wanted to do something that is satisfying, without any goals. I love virtual reality, so it was my hook point with I started. Yesterday I found it on my disk, and it's still fun for me, so I challenged myself and made version for PC from VR, and it worked flawlessly! Just change toggle button labeled "Is VR" to unchecked, or execute "pc" command. If you have some computer power you can try set derbis to higher number, click "`" (backquote) and console should open up, write "deb_m" and an number for derbis count. Default derbis is 3500. Last thing, in the zip file, open "VR demos.exe" file, it's default icon, becouse I don't take it seriously.
+I created this game half year ago, I wanted to do something that is satisfying, without any goals. I love virtual reality, so it was my hook point with I started.
+
+Yesterday I found it on my disk, and it's still fun for me, so I challenged myself and made version for PC from VR, and it worked flawlessly! Just change toggle button labeled "Is VR" to unchecked, or execute "pc" command.
+
+If you have some computer power you can try set derbis to higher number, click "`" (backquote) and console should open up, write "deb_m" and an number for derbis count. Default derbis is 3500.
+
+Last thing, in the zip file, open "VR demos.exe" file, it's default icon, becouse I don't take it seriously.
 
 
 
