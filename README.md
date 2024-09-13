@@ -10,6 +10,8 @@ If you have some computer power you can try set derbis to higher number, click "
 
 Last thing, in the zip file, open "VR demos.exe" file, it's default icon, becouse I don't take it seriously.
 
+## Showcase
+![vrdemos-presentation](https://github.com/user-attachments/assets/7be2e002-d777-4953-bfc6-17d7cfff2ffd)
 
 
 # Download Link
